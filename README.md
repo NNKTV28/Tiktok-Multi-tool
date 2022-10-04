@@ -19,6 +19,13 @@ if you dont have windows  terminal then you can get it here (this is optional, i
 6. Run the .py file!
    <pre>python tiktodv3.py</pre>
 
+## For termux
+1. <pre>pkg update && pkg upgrade</pre>
+2. <pre>pkg  install git && pkg install python</pre>
+3. <pre>git clone https://github.com/NNKTV28/Tiktok-Multi-tool.git</pre>
+4. <pre>cd </pre>
+
+
 
 
 ## Note
