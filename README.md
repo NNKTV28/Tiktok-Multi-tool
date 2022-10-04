@@ -13,6 +13,7 @@ if you dont have windows  terminal then you can get it here (this is optional, i
 
 4. Install modules using pip:
    <pre>pip install -r requirements.txt</pre>
+   
 5. Make sure you have Google Chrome installed
 
 6. Run the .py file!
@@ -23,9 +24,4 @@ if you dont have windows  terminal then you can get it here (this is optional, i
 ## Note
 When  it  says  copy tiktok video  url, it means  the url from chrome, not from  copy url  feature that tiktok has
 
-## Note
 The first recaptcha has to be completed manually.
-
-## Proof that this works
-![Preview]
-
