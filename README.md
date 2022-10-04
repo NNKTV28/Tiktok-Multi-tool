@@ -11,7 +11,7 @@ A simple tiktok Multi-tool i made in python
 if  you have windows  terminal, then on settings  set  the default  console  to open is  powershell
 if you dont have windows  terminal then you can get it here (this is optional, i  suggest this because  you can open many different  consoles  with this program that you get on the windows  store)
 
-4. Install modules using pip:
+4. Install modules using pip (in powershell):
    <pre>pip install -r requirements.txt</pre>
    
 5. Make sure you have Google Chrome installed
