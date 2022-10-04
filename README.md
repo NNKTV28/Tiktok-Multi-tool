@@ -21,12 +21,16 @@ if you dont have windows  terminal then you can get it here (this is optional, i
 
 ## For termux
 1. <pre>pkg update && pkg upgrade</pre>
+
 2. <pre>pkg  install git && pkg install python</pre>
+
 3. <pre>git clone https://github.com/NNKTV28/Tiktok-Multi-tool.git</pre>
-4. <pre>cd </pre>
 
+4. <pre>cd .\Tiktok-Multi-tool\</pre>
 
+5. <pre>pip install -r requirements.txt</pre>
 
+6. <pre>python Tiktok\ Multi-Tool.py</pre>
 
 ## Note
 When  it  says  copy tiktok video  url, it means  the url from chrome, not from  copy url  feature that tiktok has
