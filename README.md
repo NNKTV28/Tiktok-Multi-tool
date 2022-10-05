@@ -17,7 +17,7 @@ if you dont have windows  terminal then you can get it here (this is optional, i
 5. Make sure you have Google Chrome installed
 
 6. Run the .py file!
-   <pre>python tiktodv3.py</pre>
+   <pre>python Tiktok\ Multi-Tool.py</pre>
 
 ## For termux
 1. <pre>pkg update && pkg upgrade</pre>
